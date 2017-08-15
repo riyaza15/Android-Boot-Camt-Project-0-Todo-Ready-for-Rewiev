@@ -1,22 +1,37 @@
-# Android-Boot-Camt-Project-0-Todo-Ready-for-Rewiev-2
+# Android-Bootcamp-Project-0-Todo--Ready-for-Review
 
-CodePath-SimpleToDo
-Code Path Exercise 0: Simple ToDo
+# Pre-work - *SimpleTodo*
 
-This is an Android demo application for tracking a To-Do list.
+**SimpleTodo** is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
 
-Time spent: 10 hours spent in total
+Submitted by: **Riyasa Mansil**
 
-Completed user stories:
+Time spent: **5** hours spent in total
 
- Required: User view a list of ToDo items
- Required: User add and remove items                       
- Required: User can edit an existing item
-Spent some time making the UI work across multiple phone resolutions by playing around with the RelativeLayout.
+## User Stories
 
-Notes:
+The following **required** functionality is completed:
 
-Coming from iOS world, creating a virtual device for testing in Android seems way complicated.
+* [x] User can **successfully add and remove items** from the todo list
+* [x] User can **tap a todo item in the list and bring up an edit screen for the todo item** and then have any changes to the text reflected in the todo list.
+* [x] User can **persist todo items** and retrieve them properly on app restart
 
-Walkthrough of all user stories
-![simpletodogif](https://cloud.githubusercontent.com/assets/16930923/16407934/1f299e56-3ccb-11e6-97ac-6c4d7633bbc2.gif)
+The following **optional** features are implemented:
+
+* [ ] Persist the todo items [into SQLite](http://guides.codepath.com/android/Persisting-Data-to-the-Device#sqlite) instead of a text file
+* [ ] Improve style of the todo items in the list [using a custom adapter](http://guides.codepath.com/android/Using-an-ArrayAdapter-with-ListView)
+* [ ] Add support for completion due dates for todo items (and display within listview item)
+* [ ] Use a [DialogFragment](http://guides.codepath.com/android/Using-DialogFragment) instead of new Activity for editing items
+* [ ] Add support for selecting the priority of each todo item (and display in listview item)
+* [x] Tweak the style improving the UI / UX, play with colors, images or backgrounds
+
+The following **additional** features are implemented:
+
+* [] List anything else that you can get done to improve the app functionality!
+Dialog popup window to show what exactly was edited.  Find if no popup, then users may forget what was edited when returning to main screen/activity.
+
+## Video Walkthrough 
+
+Here's a walkthrough of implemented user stories:
+
+![todo](https://user-images.githubusercontent.com/16930923/29303089-d8daeb62-813e-11e7-9f69-127532b01e40.gif)
