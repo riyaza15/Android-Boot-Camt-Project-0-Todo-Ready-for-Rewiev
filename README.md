@@ -34,4 +34,4 @@ Dialog popup window to show what exactly was edited.  Find if no popup, then use
 
 Here's a walkthrough of implemented user stories:
 
-![todo](https://user-images.githubusercontent.com/16930923/29302455-2c813920-8139-11e7-9ee3-74a88a480975.gif)
+![todo](https://user-images.githubusercontent.com/16930923/29303089-d8daeb62-813e-11e7-9f69-127532b01e40.gif)
