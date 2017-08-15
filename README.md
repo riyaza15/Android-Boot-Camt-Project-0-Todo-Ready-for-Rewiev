@@ -27,7 +27,11 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-* [x] List anything else that you can get done to improve the app functionality!
+* [] List anything else that you can get done to improve the app functionality!
 Dialog popup window to show what exactly was edited.  Find if no popup, then users may forget what was edited when returning to main screen/activity.
+
+## Video Walkthrough 
+
+Here's a walkthrough of implemented user stories:
 
 ![todobig](https://user-images.githubusercontent.com/16930923/29297589-f8f54442-8116-11e7-961e-057507397675.gif)
