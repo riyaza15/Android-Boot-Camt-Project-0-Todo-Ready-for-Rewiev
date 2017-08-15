@@ -1,4 +1,3 @@
-# Android-Boot-Camt-Project-0-Todo-Ready-for-Rewiev
 # Android-Bootcamp-Project-0-Todo--Ready-for-Review
 
 # Pre-work - *SimpleTodo*
